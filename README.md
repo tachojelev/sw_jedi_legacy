@@ -23,4 +23,5 @@ MINI Games examples:
 - update mini games (diversity must be achieved)
 - basic classes' implementation (player,jedi,sith,game)
 - replacement of 'set','get' methods with @property based ones
+- unit testing
 - ... more
