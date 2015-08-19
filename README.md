@@ -1,7 +1,7 @@
 # Star Wars Episode 0 Interactive RPG Game // Python 3.x.x
 The following repository contains a python project implementing an interactive game, based on Star Wars fictional universe.
 
- Description
+# Description
  
  (The game is still in a very early stage of development)
  (Python 3.x.x)
