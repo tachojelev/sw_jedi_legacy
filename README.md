@@ -1,4 +1,4 @@
-# Star Wars Jedi Legacy Interactive RPG Game // Python 3.x.x
+# Star Wars Jedi Legacy
 The following repository contains a python project implementing an interactive game, based on Star Wars fictional universe.
 
 # Description
