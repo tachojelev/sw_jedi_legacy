@@ -1,7 +1,8 @@
 # Star Wars Episode 0 Interactive RPG Game // Python 3.x.x
 The following repository contains a python project implementing an interactive game, based on Star Wars fictional universe.
 
- v1.0
+ Description
+ 
  (The game is still in a very early stage of development)
  (Python 3.x.x)
  At the beginning of every new game you will be granted the opportunity to choose whether you will play as a promising young Jedi padawan or a ruthless Sith apprentice. Your choice will literally make your game. Both the Light side and the Dark side have their own pros and cons. From this step on different obstacles will be expecting you. 
