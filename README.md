@@ -2,7 +2,7 @@
 The following repository contains a python project implementing an interactive game, based ot Star Wars fictional universe.
 
  v1.0
- (WARNING - The game is still in a very early stage of development. For any questions please contact me)
+ (The game is still in a very early stage of development)
  (Python 3.x.x)
  At the beginning of every new game you will be granted the opportunity to choose whether you will play as a promising young Jedi padawan or a ruthless Sith apprentice. Your choice will literally make your game. Both the Light side and the Dark side have their own pros and cons. From this step on different obstacles will be expecting you. 
 Inspite of testing your skills with a lightsaber, the game will test our reactions, ways of thinking, IQ, basic knoweledge etc.
