@@ -16,6 +16,6 @@ MINI Games examples:
 - rock/paper/scissors
 
 HOW to play:
-- download the full content of the project
-- navigate you cmd/terminal to .../jedi_legacy folder
+- download the full content of the project as an archive and unrar
+- navigate your cmd/terminal to .../jedi_legacy folder
 - run the ui -> python UI.py
