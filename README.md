@@ -15,7 +15,7 @@ MINI Games examples:
 - decision making based on your current progress
 - rock/paper/scissors
 
-HOW to paly:
+HOW to play:
 - download the full content of the project
 - navigate you cmd/terminal to .../jedi_legacy folder
 - run the ui -> python UI.py
