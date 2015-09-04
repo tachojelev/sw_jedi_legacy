@@ -33,6 +33,8 @@ class Person:
         self._force = force
         if self._force > 100:
             self._force = 100
+        elif self._force < 0:
+            self._force = 0
 
     @property
     def lightsaber(self):
@@ -43,6 +45,8 @@ class Person:
         self._lightsaber = lightsaber
         if self._lightsaber > 100:
             self._lightsaber = 100
+        elif self._lightsaber < 0:
+            self._lightsaber = 0
 
     @property
     def agility(self):
@@ -53,6 +57,8 @@ class Person:
         self._agility = agility
         if self._agility > 100:
             self._agility = 100
+        elif self._agility < 10:
+            self._agility = 10
 
     def is_dead(self):
         return self.health <= 0
