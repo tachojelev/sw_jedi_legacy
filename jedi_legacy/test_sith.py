@@ -108,7 +108,7 @@ class TestSith(unittest.TestCase):
         self.player.lightsaber = 20
         self.player.use_lightsaber()
         self.assertEqual(self.player.health, 10)
-        self.assertEqual(self.player.agility,  0)
+        self.assertEqual(self.player.agility, 10)
         self.assertEqual(self.player.lightsaber, 50)
 
 if __name__ == '__main__':
