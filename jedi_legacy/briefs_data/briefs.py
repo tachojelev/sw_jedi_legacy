@@ -37,7 +37,7 @@ class Missions(object):
               "Opportunities must be created by you, young apprentice!",
               "Never lose your lightsaber, that weapon is your life!",
               "Both the dark side and the light side have their advantages!",
-              "The war between light and darkness is one that is eternal!",)
+              "The war between light and darkness is one that is eternal!")
 
     @classmethod
     def get_random_master(cls):
